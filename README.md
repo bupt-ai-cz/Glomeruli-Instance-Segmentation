@@ -7,9 +7,9 @@ This repo is the official implementation of our paper "A deep learning-based app
 ## Pre-train models
 Pytorch version: 1.2.0
 
-[Snapshot images]() 
+[Snapshot images](https://drive.google.com/file/d/11DDUxmUpFDxx0r-Mf37k8_7P_vNgSOGy/view?usp=sharing) 
 
-[WSIs]()
+[WSIs](https://drive.google.com/file/d/1Rb00BRu3adhEVt47ciVZ3WCWQ938eQyV/view?usp=sharing)
 ## Contact
 Wenkai Chen
 - email: wkchen@bupt.edu.cn
