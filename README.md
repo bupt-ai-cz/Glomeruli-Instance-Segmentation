@@ -5,7 +5,7 @@ Our code will be organized and open source as soon as possible.
 This repo is the official implementation of our paper "A deep learning-based approach for glomeruli instance segmentation from multi-stained renal biopsy pathologic images".
 
 ## Pre-train models
-Pytorch version:1.2.0
+Pytorch version: 1.2.0
 
 [Snapshot images]() 
 
