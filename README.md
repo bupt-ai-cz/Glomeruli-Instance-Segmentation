@@ -24,7 +24,7 @@ Pytorch version: 1.2.0
 
 ## Contact
 Wenkai Chen
-- email: wkchen@bupt.edu.cn
+- email: wkchen@bupt.edu.cn, czhu@bupt.edu.cn
 - wechat: cwkyiyi
 
 If you have any questions, you can contact me directly.
