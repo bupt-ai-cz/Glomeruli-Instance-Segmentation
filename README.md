@@ -1,5 +1,5 @@
-# A deep learning-based approach for glomeruli instance segmentation from multi-stained renal biopsy pathologic images
-This repo is the official implementation of our paper "A deep learning-based approach for glomeruli instance segmentation from multi-stained renal biopsy pathologic images".
+# [A deep learning-based approach for glomeruli instance segmentation from multi-stained renal biopsy pathologic images
+This repo is the official implementation of our paper "A deep learning-based approach for glomeruli instance segmentation from multi-stained renal biopsy pathologic images"](resouces/paper-AJP.pdf).
 
 ## Pre-train models
 Pytorch version: 1.2.0
