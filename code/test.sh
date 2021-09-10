@@ -1,0 +1,1 @@
+python tools/train.py /home/chenwenkai/mmdetection/configs/ms_rcnn/ms_rcnn_x101_64x4d_fpn_1x.py --validate --resume_from /home/chenwenkai/mmdetection/work_dirs/second-WSI/ms_rcnn_x101_64x4d_fpn_1x/latest.pth &
