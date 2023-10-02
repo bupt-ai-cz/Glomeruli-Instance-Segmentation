@@ -12,7 +12,7 @@ Pytorch version: 1.2.0
 Run 
 ``` python code/tools/train.py code/tools/cascade_mask_rcnn_r50_fpn_1x.py --work_dir="code/work_dirs" ```
 
-This repo is developed based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please refer to [get_started.md](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md) for more details.
+This repo is developed based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please refer to [get_started.md](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md) for more details.
 
 
 ## Please cite this paper, if it helps your research:
